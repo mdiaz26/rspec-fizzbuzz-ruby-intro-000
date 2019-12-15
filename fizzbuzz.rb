@@ -8,6 +8,6 @@ elsif  element % 3 == 0
 elsif element % 5 == 0
   return "Buzz"
 else
-  return "nil"
+  return nil
 end
 end
